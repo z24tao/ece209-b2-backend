@@ -17,9 +17,9 @@ For ECE209 bake-off 2, we designed and developed an autonomous driving simulatio
 [Demo video link](https://youtu.be/tbL9E4aYVys)
 
 ## demo figure
-![figure 1](https://gyazo.com/b51919a3f13288b8dc92425068373629)
-![figure 2](https://gyazo.com/aa1f76e85ee9a9737198cd4f730f8989)
-![figure 3](https://gyazo.com/dd5d6a0c6a7a4bbb35d7e34cf95c5772)
+![figure 1](https://i.gyazo.com/b51919a3f13288b8dc92425068373629.png)
+![figure 2](https://i.gyazo.com/aa1f76e85ee9a9737198cd4f730f8989.png)
+![figure 3](https://i.gyazo.com/dd5d6a0c6a7a4bbb35d7e34cf95c5772.png)
 
 ## references
 [car model](https://www.youtube.com/watch?v=o1XOUkYUDZU)
